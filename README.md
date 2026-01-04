@@ -1,12 +1,10 @@
 # Yajat Narayan
 
-**CS @ UW-Madison (Dec 2025)** | **Software Developer @ Holos.io**
-
-Building secure systems, VR training software, and cloud infrastructure. Currently contributing to a $15M U.S. Air Force contract.
+**CS @ UW-Madison (Dec 2025)** | **Open to Work**
 
 ---
 
-## 🚀 What I'm Building
+## Past Experience
 
 ### **Holos.io** — Software Developer (Aug 2025 - Present)
 Developing Unity-based VR training software for U.S. Air Force personnel as part of a $15M defense contract
@@ -22,7 +20,7 @@ Architected cloud infrastructure and CI/CD pipelines for IoT data processing
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** Python, GoLang, JavaScript/TypeScript, Swift, Java, C  
 **Frontend:** React, Unity, SwiftUI, HTML5 Canvas  
@@ -32,9 +30,9 @@ Architected cloud infrastructure and CI/CD pipelines for IoT data processing
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔐 [UnoPass - Local-First Password Manager](https://github.com/YOUR-USERNAME/unopass)
+### [UnoPass - Local-First Password Manager]
 > Production-grade password vault with military-grade encryption, browser autofill, and zero-plaintext storage
 
 **Tech:** TypeScript, Node.js, React, Chrome Extension API, AES-256-GCM  
@@ -48,7 +46,7 @@ Architected cloud infrastructure and CI/CD pipelines for IoT data processing
 
 ---
 
-### 🧠 [Handwritten Digit Recognition from Scratch](https://github.com/YOUR-USERNAME/digit-recognition)
+### [Handwritten Digit Recognition from Scratch]
 > Full-stack OCR application with custom neural network—no ML frameworks
 
 **Tech:** Python, NumPy, Flask, JavaScript, HTML5 Canvas  
@@ -62,7 +60,7 @@ Architected cloud infrastructure and CI/CD pipelines for IoT data processing
 
 ---
 
-## 🎯 What Drives Me
+## What Drives Me
 
 I focus on building systems that solve real problems with measurable impact. Whether it's reducing military training risk through VR simulations, securing user credentials with production-grade cryptography, or optimizing data pipelines to handle 100K+ daily operations, I prioritize:
 
@@ -74,12 +72,11 @@ Currently exploring: Spatial computing, real-time distributed systems, and infra
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 **📧** yajatnarayan@gmail.com  
 **🔗** [LinkedIn](https://linkedin.com/in/yajatnarayan)  
 **📍** Madison, WI
 
 ---
-
-<sub>💡 Open to full-time Software Engineering roles starting January 2026 | Interested in backend systems, cloud infrastructure, security engineering, and VR/AR development</sub>
+Open to full-time Software Engineering roles starting January 2026 | Interested in backend systems, cloud infrastructure, security engineering, and VR/AR development
