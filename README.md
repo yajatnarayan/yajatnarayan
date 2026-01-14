@@ -3,7 +3,14 @@
 **CS @ UW-Madison (Dec 2025)** | **Open to Work**
 
 ---
+## Let's Connect
 
+[Portfolio Website](yajatnarayan.github.io)
+**📧** yajatnarayan@gmail.com  
+**🔗** [LinkedIn](https://linkedin.com/in/yajatnarayan)  
+**📍** Madison, WI
+
+---
 ## Past Experience
 
 ### **Holos.io** — Software Developer (Aug 2025 - Present)
@@ -72,11 +79,4 @@ Currently exploring: Spatial computing, real-time distributed systems, and infra
 
 ---
 
-## Let's Connect
-
-**📧** yajatnarayan@gmail.com  
-**🔗** [LinkedIn](https://linkedin.com/in/yajatnarayan)  
-**📍** Madison, WI
-
----
 Open to full-time Software Engineering roles starting January 2026 | Interested in backend systems, cloud infrastructure, security engineering, and VR/AR development
